@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Jha</h1>
+<!-- <h1 align="center">Hi 👋, I'm Piyush Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushjha5&label=Profile%20views&color=0e75b6&style=flat" alt="piyushjha5" /> </p>
@@ -13,7 +13,26 @@
 
 - 💬 Ask me about **Javascript, Java, DSA**
 
-- 📫 How to reach me **jhapiyush5802@gmail.com**
+- 📫 How to reach me **jhapiyush5802@gmail.com** -->
+
+## 👋 Hi, I'm Piyush
+
+- 💻 Full Stack Developer with hands-on experience in building scalable web applications  
+- ⚙️ Skilled in developing REST APIs, backend systems, and dynamic user interfaces  
+- 🧠 Strong interest in backend development, system design, and performance optimization  
+- 🔄 Experienced in working with real-world applications and solving production-level issues  
+- 📈 Continuously learning and improving problem-solving and coding skills  
+
+### 🚀 Tech Stack
+- Frontend: React.js, Next.js, Tailwind CSS  
+- Backend: Node.js, Express.js  
+- Database: PostgreSQL, MongoDB  
+- Tools: Git, GitHub, REST APIs  
+
+### 📌 Current Focus
+- Improving backend architecture and scalability  
+- Practicing Data Structures & Algorithms  
+- Building and refining full-stack projects  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
