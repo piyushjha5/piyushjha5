@@ -6,7 +6,7 @@
 - 🔄 Experienced in working with real-world applications and solving production-level issues  
 - 📈 Continuously learning and improving problem-solving and coding skills  
 
-#### 🚀 Tech Stack
+### 🚀 Tech Stack
 - Frontend: React.js, Next.js, Tailwind CSS  
 - Backend: Node.js, Express.js  
 - Database: PostgreSQL, MongoDB  
