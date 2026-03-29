@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Piyush Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 💻 Full Stack Developer with hands-on experience in building scalable web applications  
 - ⚙️ Skilled in developing REST APIs, backend systems, and dynamic user interfaces  
