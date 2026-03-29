@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Jha</h1><p align="left">
+<h1>Hi 👋, I'm Piyush Jha</h1><p align="left">
   <!-- <img src="https://komarev.com/ghpvc/?username=piyushjha5&label=Profile%20views&color=0e75b6&style=flat" alt="piyushjha5" /> </p> -->
 
 - 💻 Full Stack Developer with hands-on experience in building scalable web applications  
