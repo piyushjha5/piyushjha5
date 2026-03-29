@@ -27,7 +27,7 @@
 - Frontend: React.js, Next.js, Tailwind CSS  
 - Backend: Node.js, Express.js  
 - Database: PostgreSQL, MongoDB  
-- Tools: Git, GitHub, REST APIs  
+- Tools: Git, GitHub, REST APIs 
 
 ### 📌 Current Focus
 - Improving backend architecture and scalability  
@@ -48,4 +48,86 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushjha5&show_icons=true&locale=en" alt="piyushjha5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushjha5&" alt="piyushjha5" /></p>
+
+
+
+<h1 align="center">Hi 👋, I'm Piyush Jha</h1>
+<h3 align="center">Full Stack Developer | React • Node.js • PostgreSQL</h3>
+
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Full Stack Developer experienced in building scalable web applications  
+- ⚙️ Strong in backend development, REST API design, and system workflows  
+- 🔄 Hands-on experience with production-level applications and real-world problem solving  
+- 🐞 Enjoy debugging, optimizing performance, and improving system reliability  
+- 📈 Continuously learning Data Structures, Algorithms, and system design  
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** PostgreSQL, MongoDB  
+**Tools:** Git, GitHub, Postman  
+
+---
+
+## 📌 Featured Projects
+
+### 🏠 RentWise – Rental Property Platform
+- Full-stack platform with role-based authentication  
+- Property listing, filtering, and pagination  
+- Designed REST APIs and MongoDB data models  
+
+👉 [View Project](https://github.com/piyushjha5/rentwise)
+
+---
+
+### 🏢 HRMS & Workforce Management System
+- Developed employee, attendance, and workflow modules  
+- Built APIs and optimized backend queries  
+- Implemented dynamic forms and validations  
+
+---
+
+### 🧾 Vendor Management System
+- Vendor onboarding with multi-step workflows  
+- Backend API development and data handling  
+- Improved query performance and system efficiency  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushjha5&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushjha5&layout=compact" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Backend architecture & scalability  
+- Data Structures & Algorithms  
+- Building production-ready applications  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/piyushjha5" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+</p>
+
+📧 jhapiyush5802@gmail.com  
+
+---
+
+⭐️ Feel free to explore my repositories and connect!
 
