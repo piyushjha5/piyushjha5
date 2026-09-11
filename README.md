@@ -1,34 +1,169 @@
-<h1>Hi 👋, I'm Piyush Jha</h1><p align="left">
-  <!-- <img src="https://komarev.com/ghpvc/?username=piyushjha5&label=Profile%20views&color=0e75b6&style=flat" alt="piyushjha5" /> </p> -->
+<h1 align="center">Hi 👋, I'm Piyush Jha</h1>
 
-- 💻 Full Stack Developer with hands-on experience in building scalable web applications  
-- ⚙️ Skilled in developing REST APIs, backend systems, and dynamic user interfaces  
-- 🧠 Strong interest in backend development, system design, and performance optimization  
-- 🔄 Experienced in working with real-world applications and solving production-level issues  
-- 📈 Continuously learning and improving problem-solving and coding skills  
+<h3 align="center">Full Stack Developer | DevOps & Cloud Engineer</h3>
 
-### 🚀 Tech Stack
-- Frontend: React.js, Next.js, Tailwind CSS  
-- Backend: Node.js, Express.js  
-- Database: PostgreSQL, MongoDB  
-- Tools: Git, GitHub, REST APIs  
-
-### 📌 Current Focus
-- Improving backend architecture and scalability  
-- Practicing Data Structures & Algorithms  
-- Building and refining full-stack projects  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/piyushjha5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushjha5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piyushjha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushjha5" height="30" width="40" /></a>
+<p align="center">
+  Building web applications, backend systems, and production-ready cloud infrastructure.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushjha5&show_icons=true&locale=en&layout=compact" alt="piyushjha5" /></p> -->
+### 👨‍💻 About Me
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushjha5&show_icons=true&locale=en" alt="piyushjha5" /></p> -->
+* 💻 Full Stack Developer with professional experience building and maintaining production web applications
+* ⚙️ Experienced in **Node.js, Express.js, PostgreSQL, React.js, JavaScript, and REST APIs**
+* ☁️ Currently working with **AWS, Linux, Docker, CI/CD, and production infrastructure**
+* 🔧 Experienced in production troubleshooting, incident response, deployments, and performance optimization
+* 🗄️ Interested in backend architecture, databases, scalable systems, and system reliability
+* 🚀 Building production-style projects that combine application development with cloud and DevOps practices
+* 📚 Currently improving my **Data Structures & Algorithms, system design, and backend engineering** skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushjha5&" alt="piyushjha5" /></p>
+---
+
+### 💼 Professional Experience
+
+**DevOps Engineer — Venture7 Technologies**
+
+Working with AWS and Linux production environments, including:
+
+* AWS EC2 and production infrastructure
+* Apache, CloudFront, AWS WAF, and Cloudflare
+* CI/CD deployment workflows
+* Docker-based deployments
+* Production troubleshooting and root-cause analysis
+* Application and database backups
+* AWS SES deliverability and email infrastructure
+
+**Software Engineer — Tech Superior Consulting**
+
+Worked on production applications using:
+
+* Node.js and Express.js
+* PostgreSQL
+* React.js
+* JavaScript
+* REST APIs
+* Database workflows and backend business logic
+* Enterprise HRMS and manufacturing management systems
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏢 Collectivwork HRMS
+
+A modular HRMS application with features for:
+
+* Employee management
+* Attendance tracking
+* Leave workflows
+* Approval flows
+* Business rules
+* RESTful APIs
+* Backend data handling and database operations
+
+**Tech:** Node.js · Express.js · PostgreSQL · React.js
+
+#### 🏠 RentWise — Production-Style AWS Deployment
+
+A production-style full-stack deployment project demonstrating application development and DevOps practices.
+
+* Containerized Node.js/Express backend using Docker
+* Multi-stage Docker builds
+* Docker images published to Amazon ECR
+* Backend deployed on AWS EC2
+* PostgreSQL deployed on private Amazon RDS
+* AWS security groups and IAM
+* Git-based deployment workflow
+* Docker health checks
+
+**Tech:** Node.js · Express.js · PostgreSQL · Docker · AWS EC2 · ECR · RDS · Git
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+</p>
+
+#### Frontend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</p>
+
+#### Backend & Database
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+</p>
+
+#### Cloud & DevOps
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+**AWS:** EC2 · ECR · RDS · S3 · IAM · CloudFront · WAF · SES
+
+**DevOps:** Docker · Git · GitHub · GitHub Actions · CI/CD · Terraform
+
+---
+
+### 🔧 What I Work On
+
+```text
+Full Stack Development
+        │
+        ├── React.js
+        ├── Node.js / Express.js
+        ├── REST APIs
+        └── PostgreSQL
+                │
+                ▼
+        Production Systems
+                │
+        ├── Linux
+        ├── Docker
+        ├── AWS
+        ├── CI/CD
+        └── Monitoring & Troubleshooting
+```
+
+I enjoy working across the application and infrastructure layers — from writing backend APIs and database queries to deploying applications and troubleshooting production issues.
+
+---
+
+### 📌 Currently Learning
+
+* Data Structures & Algorithms
+* Backend architecture
+* System Design
+* Database optimization
+* Scalable and reliable application development
+* AWS & DevOps practices
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/piyushjha5" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/piyushjha5" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+</p>
