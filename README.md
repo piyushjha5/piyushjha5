@@ -22,6 +22,7 @@
 
 ### 💼 Professional Experience
 
+<!-- 
 **DevOps Engineer — Venture7 Technologies**
 
 Working with AWS and Linux production environments, including:
@@ -33,7 +34,7 @@ Working with AWS and Linux production environments, including:
 * Production troubleshooting and root-cause analysis
 * Application and database backups
 * AWS SES deliverability and email infrastructure
-
+-->
 **Software Engineer — Tech Superior Consulting**
 
 Worked on production applications using:
